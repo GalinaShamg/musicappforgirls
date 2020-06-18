@@ -1,0 +1,3 @@
+rootProject.name='appfprgirls'
+include ':app'
+include ':app:fairyforgirls'
